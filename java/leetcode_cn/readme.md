@@ -3,7 +3,14 @@
 ### Q0009
 
 title:9. 回文数
+
 url:<https://leetcode-cn.com/problems/palindrome-number/>
+
+### Q0020
+
+titli: 20. 有效的括号
+
+url: <https://leetcode-cn.com/problems/valid-parentheses/>
 
 
 ### Q0468
